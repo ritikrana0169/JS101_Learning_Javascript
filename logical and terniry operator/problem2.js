@@ -1,3 +1,3 @@
-let vovel="z";
+let vowel="z";
 
-vovel=="a" || vovel=="e" || vovel=="i" || vovel=="o" || vovel=="u"? console.log("Vovel"):console.log("Consonant");   
+vowel=="a" || vowel=="e" || vowel=="i" || vowel=="o" || vowel=="u"? console.log("vowel"):console.log("Consonant");   
